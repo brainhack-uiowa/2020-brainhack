@@ -11,7 +11,7 @@ there is an increased need to support those individuals as they learn how to use
 The brainhack committee seeks to support researcher's learning this summer through an 8 week series
 of python tutorials focused on providing the fundamental skills for data analysis, and
 preparing a subset of the participants for a virtual neuroscience summer course, [neuromatch academy](https://neuromatch.io/academy/).
-The goals of this 8 week series is two fold: **1**, We hope to provide an adequately paced, interactive introduction to python that inspires confidence in participants
+The goals of this 8 week series are two-fold: **1**, we hope to provide an adequately paced, interactive introduction to python that inspires confidence in participants
 to take the lessons they learn and apply them to their own data and **2**, we hope to create a community of early career researchers/trainees/research support staff
 to provide open communication between the needs of researchers and services provided by research support staff.
 
