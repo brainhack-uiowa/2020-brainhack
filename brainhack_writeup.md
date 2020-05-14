@@ -81,7 +81,7 @@ and explicitly asking for feedback on pacing as the tutorials progress.
 
 ### Participants
 
-Advertisements will targeted towards graduate students/early career researches located at:
+Advertisements will be targeted towards graduate students/early career researches located at:
 - [Iowa Institute for Biomedical Imaging](https://www.iibi.uiowa.edu/)
 - [Informatics program](https://informatics.uiowa.edu/study-opportunities/graduate-program)
 - [Neuroscience program](https://neuroscience.grad.uiowa.edu/)
