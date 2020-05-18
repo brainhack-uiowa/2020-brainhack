@@ -1,8 +1,8 @@
 | Date       | Person1    | Person2 |
 |------------|------------|---------|
-| 2020-05-22 | James Kent |         |
+| 2020-05-22 | James Kent | Gail Harmata|
 | 2020-05-29 | James Kent |         |
-| 2020-06-05 | James Kent |         |
+| 2020-06-05 | James Kent | Gail Harmata |
 | 2020-06-12 |            |         |
 | 2020-06-19 |            |         |
 | 2020-06-26 |            |         |
