@@ -39,5 +39,5 @@
 - try a mix of asking the crowd and doing round robin question asking
   to hear from everyone? (or have another strategy to hear from everyone,
   like a quota?)
--Encourage participants to practice coding outside of CoLab.
---It might be beneficial to remind/encourage participants to type code into cell instead of just running code or copy and pasting code.
+- Encourage participants to practice coding outside of CoLab.
+- It might be beneficial to remind/encourage participants to type code into cell instead of just running code or copy and pasting code.
