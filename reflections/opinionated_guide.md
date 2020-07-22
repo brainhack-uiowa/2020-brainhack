@@ -54,7 +54,7 @@
   if there is time, and if not, follow up through slack to share resources/
   discuss the topic.
 
-## 5b: Walk through the material
+## 5b: Walk through the material interactively (optional, could go to directly to 6)
 
 - If there are no questions, start walking through the material
 - Tie material to real world examples (if you have personal experience)
